@@ -31,3 +31,6 @@ The bot had strong volatility matched returns against the market in backtesting 
 - Try other strategies like a DDQN, ARIMA or an LSTM-based architecture, FinBERT for sentiment analysis, or an ensemble of multiple models.
 - Enable live trading with other brokerages besides Alpaca.
 - Use more data for decision making, like technical and fundamental analysis of the data conducted by an AI model. 
+
+# Contributions
+If there is any issue with the code or any functionality that could be improved, feel free to submit a pull request and I will review it in a timely manner.
