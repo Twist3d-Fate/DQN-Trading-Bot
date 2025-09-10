@@ -2,7 +2,7 @@
 A Deep Q Learning Network Applied to Trading Using Lumibot and Alpaca
 
 ## Setup
-Create an account at (alpaca)[https://alpaca.markets/] and generate an API key and secret key to connect to the agent. 
+Create an account at [Alpaca](https://alpaca.markets/) and generate an API key and secret key to connect to the agent. 
 
 ## Functionality
 - This model has rudimentary multi-symbol capabilities, allowing the user to enter a list of symbols for the model to train on and trade.
