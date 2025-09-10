@@ -5,13 +5,13 @@ A Deep Q Learning Network Applied to Trading Using Lumibot and Alpaca
 This project is purely for educational purposes and not intended to be used for serious trading with real money on the line. The author incurs no liability for any potential losses as the result of the usage of this model. All trading conducted with or assisted by this model is at the discretion of the user. USE AT YOUR OWN RISK.
 
 ## Setup
-Create an account at [Alpaca](https://alpaca.markets/) and generate an API key and secret key to connect to the agent. 
-
-Install the requirements: 
-
+- Create an account at [Alpaca](https://alpaca.markets/) and generate an API key and secret key to connect to the agent. 
+- Install the requirements: 
 ```bash
 pip install -r requirements.txt
 ```
+- Clone the repository and run the script. Change any parameters and run the appropriate methods based on your use case. Example usage and configurations are provided in the main function as well.
+
 
 ## Functionality
 - This model has rudimentary multi-symbol capabilities, allowing the user to enter a list of symbols for the model to train on and trade.
