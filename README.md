@@ -1,6 +1,9 @@
 # DQN-Trading-Bot
 A Deep Q Learning Network Applied to Trading Using Lumibot and Alpaca
 
+## Disclaimer
+This project is purely for educational purposes and not intended to be used for serious trading with real money on the line. The author incurs no liability for any potential losses as the result of the usage of this model. All trading conducted with or assisted by this model is at the discretion of the user. USE AT YOUR OWN RISK.
+
 ## Setup
 Create an account at [Alpaca](https://alpaca.markets/) and generate an API key and secret key to connect to the agent. 
 
