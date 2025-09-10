@@ -7,6 +7,12 @@ This project is purely for educational purposes and not intended to be used for 
 ## Setup
 Create an account at [Alpaca](https://alpaca.markets/) and generate an API key and secret key to connect to the agent. 
 
+Install the requirements: 
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Functionality
 - This model has rudimentary multi-symbol capabilities, allowing the user to enter a list of symbols for the model to train on and trade.
 - The model can be trained through reinforcement learning on each symbol in a Gymnasium trading environment using historical stock data and be saved to the user's personal computer.
