@@ -1307,8 +1307,8 @@ class TradingBotManager:
 if __name__ == "__main__":
     # Configuration
     SYMBOLS = ["AAPL", "GOOGL", "MSFT", "TSLA"]
-    ALPACA_API_KEY = "PK9I2SAZA8577VO25RD4"
-    ALPACA_SECRET_KEY = "HhjwedtxpgaydvdKZtEZrWL1a2qbw6N880SAK0QA"
+    ALPACA_API_KEY = "YOUR ALPACA API KEY"
+    ALPACA_SECRET_KEY = "YOUR ALPACA API SECRET"
     
     # Initialize bot manager
     bot_manager = TradingBotManager(
@@ -1453,4 +1453,5 @@ if __name__ == "__main__":
     #     strategy_class=DQNTradingStrategy,
     #     load_pretrained=True,
     #     model_path="models/"
+
     # )
